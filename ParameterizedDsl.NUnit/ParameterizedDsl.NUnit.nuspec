@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/bleis-tift/ParameterizedDsl.NUnit/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/bleis-tift/ParameterizedDsl.NUnit</projectUrl>
+    <description>$description$</description>
+    <summary>$description$</summary>
+    <tags>parameterized test nunit</tags>
+  </metadata>
+</package>

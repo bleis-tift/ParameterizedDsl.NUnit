@@ -6,11 +6,10 @@ using System.Runtime.InteropServices;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("ParameterizedDsl.NUnit")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This library provides the DSL for parameterized unit test.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("bleis-tift")]
 [assembly: AssemblyProduct("ParameterizedDsl.NUnit")]
-[assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
