@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F1863F0C-D73C-4373-8B04-C8FE8CC04556}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterizedDsl.NUnit", "ParameterizedDsl.NUnit\ParameterizedDsl.NUnit.csproj", "{38D5D942-8EDB-4F17-B4B8-CDBE0057709A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterizedDsl.NUnit.Tests", "ParameterizedDsl.NUnit.Tests\ParameterizedDsl.NUnit.Tests.csproj", "{A73A9565-B3DE-459D-B185-1E85CAB1A216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D5D942-8EDB-4F17-B4B8-CDBE0057709A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D5D942-8EDB-4F17-B4B8-CDBE0057709A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D5D942-8EDB-4F17-B4B8-CDBE0057709A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D5D942-8EDB-4F17-B4B8-CDBE0057709A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73A9565-B3DE-459D-B185-1E85CAB1A216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73A9565-B3DE-459D-B185-1E85CAB1A216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73A9565-B3DE-459D-B185-1E85CAB1A216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73A9565-B3DE-459D-B185-1E85CAB1A216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
